@@ -2,10 +2,6 @@
 
 # Heyo! How's it going?
 
-Look around to see what kind of stuff I build and work on.
-
-## Coding Activity
-
 <!-- [![WakaTime Badge](https://wakatime.com/badge/user/16f921d3-bae9-4c22-aba7-3f28247d6dba.svg?style=for-the-badge)](https://wakatime.com/@minhajul_im)
 
 [![WakaTime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=jNaimXIII&hide_title=true&theme=transparent&layout=compact&langs_count=12&range=all_time)](https://wakatime.com/@minhajul_im)
