@@ -28,7 +28,7 @@
     <img alt="Discord"src="docs/images/Instagram.svg" height="32" />
 </a>
 
- <br/>
+
 Just visit <http://minhajul.com> for anything else.
 
 </div>
