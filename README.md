@@ -12,21 +12,22 @@
 
 ## Socials
 
-<a  target="_blank" href="https://www.instagram.com/minhajul.im/">
-    <img alt="Discord"src="docs/images/Instagram.svg" height="32" />
-</a>
-&nbsp; &nbsp;
-<a  target="_blank" href="https://twitter.com/minhajul_im">
-    <img alt="Twitter"src="docs/images/twitter.svg" height="32" />
-</a>
-&nbsp; &nbsp;
-<a target="_blank" href="https://www.linkedin.com/notifications/?filter=all">
+<a target="_blank" href="(https://www.linkedin.com/in/minhajul-im/)">
     <img alt="LinkedIn" src="docs/images/linkedin.svg" height="32" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://www.facebook.com/minhajul.im">
     <img alt="Facebook" src="docs/images/Facebook.svg" height="32" />
 </a>
+&nbsp; &nbsp;
+<a  target="_blank" href="https://twitter.com/minhajul_im">
+    <img alt="Twitter"src="docs/images/twitter.svg" height="32" />
+</a>
+&nbsp; &nbsp;
+<a  target="_blank" href="https://www.instagram.com/minhajul.im/">
+    <img alt="Discord"src="docs/images/Instagram.svg" height="32" />
+</a>
+
 
 Just visit <http://minhajul.com> for anything else.
 
