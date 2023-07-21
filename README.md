@@ -12,7 +12,7 @@
 
 ## Socials
 
-<a target="_blank" href="(https://www.linkedin.com/in/minhajul-im/)">
+<a target="_blank" href="https://www.linkedin.com/in/minhajul-im/">
     <img alt="LinkedIn" src="docs/images/linkedin.svg" height="32" />
 </a>
 &nbsp; &nbsp;
@@ -28,7 +28,7 @@
     <img alt="Discord"src="docs/images/Instagram.svg" height="32" />
 </a>
 
-
+ <br/>
 Just visit <http://minhajul.com> for anything else.
 
 </div>
