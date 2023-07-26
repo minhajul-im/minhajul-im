@@ -2,7 +2,7 @@
 
 # Heyo! How's it going?
 
-# I'm Minhajul Islam (MinhaJ)
+<h3>I'm Minhajul Islam (MinhaJ)</h3>
 
 <!-- [![WakaTime Badge](https://wakatime.com/badge/user/16f921d3-bae9-4c22-aba7-3f28247d6dba.svg?style=for-the-badge)](https://wakatime.com/@minhajul_im)
 
@@ -27,7 +27,6 @@
 <a  target="_blank" href="https://www.instagram.com/minhajul.im/">
     <img alt="Discord"src="docs/images/Instagram.svg" height="32" />
 </a>
-
 
 Just visit <http://minhajul.com> for anything else.
 
