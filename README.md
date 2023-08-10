@@ -28,6 +28,6 @@
     <img alt="Discord"src="docs/images/Instagram.svg" height="32" />
 </a>
 
-Just visit <http://minhajul.com> for anything else.
+Just visit <https://www.minhajul.com/> for anything else.
 
 </div>
