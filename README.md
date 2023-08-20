@@ -16,6 +16,10 @@
     <img alt="LinkedIn" src="docs/images/linkedin.svg" height="32" />
 </a>
 &nbsp; &nbsp;
+<a target="_blank" href="https://github.com/minhajul-im">
+    <img alt="LinkedIn" src="docs/images/github.svg" height="32" />
+</a>
+&nbsp; &nbsp;
 <a target="_blank" href="https://www.facebook.com/minhajul.im">
     <img alt="Facebook" src="docs/images/Facebook.svg" height="32" />
 </a>
