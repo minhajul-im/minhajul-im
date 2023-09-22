@@ -13,16 +13,16 @@
 ## Socials
 
 <a target="_blank" href="https://www.minhajul.com/">
-    <img alt="WorldWeb" src="docs/images/wwwsvg.svg" height="40" />
+    <img alt="WorldWeb" src="docs/images/world-longitude-white.svg" height="32" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/minhajul-im/">
     <img alt="LinkedIn" src="docs/images/linkedin.svg" height="32" />
 </a>
-<!-- &nbsp; &nbsp;
+&nbsp; &nbsp;
 <a target="_blank" href="https://github.com/minhajul-im">
-    <img alt="Github" src="docs/images/GitHub1.svg" height="32" />
-</a> -->
+    <img alt="Github" src="docs/images/logo-github-white.svg" height="32" />
+</a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://www.facebook.com/minhajul.im">
     <img alt="Facebook" src="docs/images/Facebook.svg" height="32" />
