@@ -33,7 +33,7 @@
 <a  target="_blank" href="https://www.instagram.com/minhajul.im/">
     <img alt="Instagram"src="docs/images/Instagram.svg" height="33" />
 </a>
-
+ </hr>
 Just visit <https://www.minhajul.com/> for anything else.
 
 </div>
