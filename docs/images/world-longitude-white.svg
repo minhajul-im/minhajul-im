@@ -1,3 +1,0 @@
-<?xml version="1.0" standalone="no"?>
-        <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
-        "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"> <svg style="color: white" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-world-longitude" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"> <path stroke="none" d="M0 0h24v24H0z" fill="white"></path> <circle cx="12" cy="12" r="9"></circle> <path d="M11.5 3a11.2 11.2 0 0 0 0 18" fill="white"></path> <path d="M12.5 3a11.2 11.2 0 0 1 0 18" fill="white"></path> <line x1="12" y1="3" x2="12" y2="21"></line> </svg>  
