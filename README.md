@@ -13,7 +13,7 @@
 ## Socials
 
 <a target="_blank" href="https://www.minhajul.com/">
-    <img alt="WorldWeb" src="docs/images/website.svg" height="36" />
+    <img alt="WorldWeb" src="docs/images/website.svg" height="34" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/minhajul-im/">
@@ -21,7 +21,7 @@
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://github.com/minhajul-im">
-    <img alt="Github" src="docs/images/github.svg" height="37" />
+    <img alt="Github" src="docs/images/github.svg" height="36" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://www.facebook.com/minhajul.im">
