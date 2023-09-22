@@ -7,7 +7,7 @@
 
 </br>
 <a target="_blank" href="https://www.minhajul.com/">
-    <img alt="WorldWeb" src="docs/images/website.svg" height="33" />
+    <img alt="WorldWeb" src="docs/images/website.svg" height="32" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://leetcode.com/minhajul-im/">
@@ -44,4 +44,4 @@ Just visit <https://www.minhajul.com/> for anything else.
 
 <!-- [![WakaTime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=jNaimXIII&hide_title=true&theme=transparent&layout=compact&langs_count=12&range=all_time)](https://wakatime.com/@minhajul_im)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jNaimXIII?theme=light&font=Roboto)](https://leetcode.com/minhajul-im/) --> -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jNaimXIII?theme=light&font=Roboto)](https://leetcode.com/minhajul-im/) -->
