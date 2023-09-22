@@ -12,8 +12,9 @@
 
 ## Socials
 
+</br>
 <a target="_blank" href="https://www.minhajul.com/">
-    <img alt="WorldWeb" src="docs/images/website.svg" height="34" />
+    <img alt="WorldWeb" src="docs/images/website.svg" height="33" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/minhajul-im/">
@@ -36,6 +37,7 @@
     <img alt="Instagram"src="docs/images/Instagram.svg" height="32" />
 </a>
 
+</br>
 Just visit <https://www.minhajul.com/> for anything else.
 
 </div>
