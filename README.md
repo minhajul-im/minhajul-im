@@ -38,6 +38,7 @@
 </a>
 
 </br>
+
 Just visit <https://www.minhajul.com/> for anything else.
 
 </div>
