@@ -1,8 +1,8 @@
 <div align="center">
 
-# Heyo! How's it going?
+# Heyooo! How's it going?
 
-<h3>I'm Minhajul Islam (MinhaJ)</h3>
+<h4>I'm Minhajul Islam (MinhaJ)</h4>
 
 <!-- [![WakaTime Badge](https://wakatime.com/badge/user/16f921d3-bae9-4c22-aba7-3f28247d6dba.svg?style=for-the-badge)](https://wakatime.com/@minhajul_im)
 
@@ -12,24 +12,38 @@
 
 ## Socials
 
+<a target="_blank" href="https://www.minhajul.com/">
+    <img alt="WorldWeb" src="docs/images/website.svg" height="32" />
+</a>
+
+&nbsp; &nbsp;
+
 <a target="_blank" href="https://www.linkedin.com/in/minhajul-im/">
     <img alt="LinkedIn" src="docs/images/linkedin.svg" height="32" />
 </a>
-<!-- &nbsp; &nbsp;
-<a target="_blank" href="https://github.com/minhajul-im">
-    <img alt="LinkedIn" src="docs/images/github.svg" height="32" />
-</a> -->
+
 &nbsp; &nbsp;
+
+<a target="_blank" href="https://github.com/minhajul-im">
+    <img alt="Github" src="docs/images/github.svg" height="32" />
+</a>
+
+&nbsp; &nbsp;
+
 <a target="_blank" href="https://www.facebook.com/minhajul.im">
     <img alt="Facebook" src="docs/images/Facebook.svg" height="32" />
 </a>
+
 &nbsp; &nbsp;
+
 <a  target="_blank" href="https://twitter.com/minhajul_im">
     <img alt="Twitter"src="docs/images/twitter.svg" height="32" />
 </a>
+
 &nbsp; &nbsp;
+
 <a  target="_blank" href="https://www.instagram.com/minhajul.im/">
-    <img alt="Discord"src="docs/images/Instagram.svg" height="32" />
+    <img alt="Instagram"src="docs/images/Instagram.svg" height="32" />
 </a>
 
 Just visit <https://www.minhajul.com/> for anything else.
