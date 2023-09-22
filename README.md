@@ -35,7 +35,8 @@
 </a>
  </br>
  </br>
-Just visit <https://www.minhajul.com/> for anything else.
+
+Just visit <a target="_blank" href="https://www.minhajul.com/"><https://www.minhajul.com/></a> for anything else.
 
 </div>
 
