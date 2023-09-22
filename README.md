@@ -34,8 +34,6 @@
     <img alt="Instagram"src="docs/images/Instagram.svg" height="33" />
 </a>
 
-</br>
-
 Just visit <https://www.minhajul.com/> for anything else.
 
 </div>
