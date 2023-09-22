@@ -13,7 +13,7 @@
 ## Socials
 
 <a target="_blank" href="https://www.minhajul.com/">
-    <img alt="WorldWeb" src="docs/images/pngwing.com.png" height="32" />
+    <img alt="WorldWeb" src="docs/images/pngwing.com.png" height="38" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/minhajul-im/">
