@@ -1,5 +1,5 @@
 <div align="center">
-# Heyooo! How's it going?
+<h1> Heyooo! How's it going? </h1>
 
 ### Hey, I'm Minhajul Islam (MinhaJ)
 
