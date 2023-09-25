@@ -11,7 +11,7 @@
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://leetcode.com/minhajul-im/">
-    <img alt="Facebook" src="docs/images/leetCode.svg" height="33" />
+    <img alt="Facebook" src="docs/images/leetcode.svg" height="33" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://github.com/minhajul-im">
