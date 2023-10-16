@@ -7,15 +7,15 @@
 
 </br>
 <a target="_blank" href="https://www.minhajul.com/">
-    <img alt="WorldWeb" src="/images/github-blue.svg" height="32" />
+    <img alt="WorldWeb" src="/images/globe-blue.svg" height="35" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://leetcode.com/minhajul-im/">
-    <img alt="Facebook" src="/images/leetcode-blue.svg" height="33" />
+    <img alt="Facebook" src="/images/leetcode-blue.svg" height="35" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://github.com/minhajul-im">
-    <img alt="Github" src="/images/github-blue.svg" height="37" />
+    <img alt="Github" src="/images/github-blue.svg" height="33" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/minhajul-im/">
