@@ -7,7 +7,7 @@
 
 </br>
 <a target="_blank" href="https://www.minhajul.com/">
-    <img alt="WorldWeb" src="/images/globe-blue.svg" height="35" />
+    <img alt="WorldWeb" src="/images/globe-blue.svg" height="33" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://leetcode.com/minhajul-im/">
@@ -19,7 +19,7 @@
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/minhajul-im/">
-    <img alt="LinkedIn" src="/images/linkedin.svg" height="32" />
+    <img alt="LinkedIn" src="/images/linkedin.svg" height="31" />
 </a>
 &nbsp; &nbsp;
 <a target="_blank" href="https://www.facebook.com/minhajul.im">
