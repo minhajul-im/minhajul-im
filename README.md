@@ -3,7 +3,7 @@
 
 ### Hey, I'm Minhajul Islam (MinhaJ)
 
-## Socials
+## Socials!
 
 </br>
 <a target="_blank" href="https://www.minhajul.com/">
