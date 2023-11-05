@@ -29,10 +29,6 @@
 <a  target="_blank" href="https://twitter.com/minhajul_im">
     <img alt="Twitter"src="/images/twitter.svg" height="33" />
 </a>
-&nbsp; &nbsp;
-<a  target="_blank" href="https://www.instagram.com/minhajul.im/">
-    <img alt="Instagram"src="/images/instagram.svg" height="33" />
-</a>
  </br>
  </br>
 
