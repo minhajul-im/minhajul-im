@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Heyoooo! How's it going? </h1>
 
-### Hey, I'm Minhajul Islam (MinhaJ)
+### Hey, I'm Minhajul Islam (Minhaj)
 
 ## Socials!
 
