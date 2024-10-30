@@ -30,6 +30,10 @@
     <img alt="Twitter"src="/images/twitter.svg" height="33" />
 </a>
 &nbsp; &nbsp;
+<a  target="_blank" href="https://medium.com/@minhajul-im">
+    <img alt="Twitter"src="/images/medium.svg" height="33" />
+</a>
+&nbsp; &nbsp;
  </br>
  </br>
 
