@@ -48,6 +48,8 @@
 > 🔸[![Codeforces Badge](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/minhajul-im)
 > 🔸[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/minhajul-im/)
 
+<br/>
+
 ## 🎀`Employment History:`
 
 | Position           | Company  | Duration                | Job Type  | Location          |
