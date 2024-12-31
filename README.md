@@ -62,6 +62,8 @@
 
 > 🔸[![Medium](https://img.shields.io/badge/Medium-Articles-00AB6C?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@minhajul-im) 🔸[![LinkedIn Articles](https://img.shields.io/badge/LinkedIn-Articles-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhajul-im/recent-activity/articles/)
 
+<br/>
+
 ## 📊`Current working stats:`
 
 <div align="center">
