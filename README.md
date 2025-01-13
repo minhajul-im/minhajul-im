@@ -77,7 +77,7 @@
         />
       </td>
     </tr>
-    <tr>
+<!--     <tr>
       <td colspan="2" align="center">
         <img
           style="max-width: 100%; height: auto;"
@@ -85,7 +85,7 @@
           alt="Streak Stats"
         />
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td colspan="2" align="center">
         <div style="display: flex; flex-direction: column; align-items: center;">
