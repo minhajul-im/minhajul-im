@@ -81,7 +81,7 @@
       <td colspan="2" align="center">
         <img
           style="max-width: 100%; height: auto;"
-          src="https://github-readme-streak-stats.herokuapp.com?user=minhajul-im&theme=blue-green&hide_border=true"
+          src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=minhajul-im&theme=blue-green&hide_border=true"
           alt="Streak Stats"
         />
       </td>
