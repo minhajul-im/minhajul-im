@@ -52,9 +52,9 @@
 
 ## 🎀`Employment History:`
 
-| Position           | Company  | Duration                | Job Type  | Location          |
-| ------------------ | -------- | ----------------------- | --------- | ----------------- |
-| Frontend Developer | RixoTech | February 2024 - Present | Full-Time | Dhaka, Bangladesh |
+| Position           | Company  | Duration                     | Job Type  | Location          |
+| ------------------ | -------- | ---------------------------- | --------- | ----------------- |
+| Frontend Developer | RixoTech | February 2024 - January 2025 | Full-Time | Dhaka, Bangladesh |
 
 <br/>
 
