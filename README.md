@@ -8,7 +8,9 @@
   </h1>
   <div align="center" text-align= "justify">
     As a passionate and driven Front-End Developer, I am always seeking opportunities to grow and refine my skills. With a strong foundation in problem-solving, I have solved over 100 Data Structures and Algorithms (DSA) challenges, which has significantly enhanced my analytical abilities.
+
     Currently, I am focused on real-world projects to further hone my front-end development expertise. I am also expanding my knowledge in Object-Oriented Programming (OOP) and exploring Docker to diversify my technical toolkit and increase my versatility as a developer.
+
     In addition to my coding work, I enjoy sharing my experiences and insights on Medium, where I write about various tech topics to engage with the community and help others on their own learning journeys.
 
   </div>
