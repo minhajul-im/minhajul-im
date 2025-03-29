@@ -7,17 +7,18 @@
     Hey, I'm Minhajul Islam (Minhaj) 
   </h1>
   <div align="center" text-align= "justify">
-    As a passionate and driven Front-End Developer, I am always seeking opportunities to grow and refine my skills. With a strong foundation in problem-solving, I have solved over 100 Data Structures and Algorithms (DSA) challenges, which has significantly enhanced my analytical abilities.
-    Currently, I am focused on real-world projects to further hone my front-end development expertise. I am also expanding my knowledge in Object-Oriented Programming (OOP) and exploring Docker to diversify my technical toolkit and increase my versatility as a developer.
-    In addition to my coding work, I enjoy sharing my experiences and insights on Medium, where I write about various tech topics to engage with the community and help others on their own learning journeys.
+    As a passionate and driven Front-End Developer, I am always seeking opportunities to grow and refine my skills.
 
   </div>
   <br />
 <div>
 
+ <!-- With a strong foundation in problem-solving, I have solved over 100 Data Structures and Algorithms (DSA) challenges, which has significantly enhanced my analytical abilities.
+    Currently, I am focused on real-world projects to further hone my front-end development expertise. I am also expanding my knowledge in Object-Oriented Programming (OOP) and exploring Docker to diversify my technical toolkit and increase my versatility as a developer.
+    In addition to my coding work, I enjoy sharing my experiences and insights on Medium, where I write about various tech topics to engage with the community and help others on their own learning journeys. -->
 <br/>
 
-## 🛠️`Technologies and Tools:`
+<!-- ## 🛠️`Technologies and Tools:`
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -41,7 +42,7 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<br/>
+<br/> -->
 
 ## ⚙️`Problem-solving:`
 
@@ -50,7 +51,7 @@
 
 <br/>
 
-## 🎀`Employment History:`
+<!-- ## 🎀`Employment History:`
 
 | Position           | Company                | Duration                     | Job Type  | Location          |
 | ------------------ | ---------------------- | ---------------------------- | --------- | ----------------- |
@@ -58,7 +59,7 @@
 | Frontend Developer | RixoTech               | February 2024 - January 2025 | Full-Time | Dhaka, Bangladesh |
 | Frontend Developer | iGen Solutions Limited | January 2024 - Present       | Full-Time | Dhaka, Bangladesh |
 
-<br/>
+<br/> -->
 
 ## ✍🏻`My Article:`
 
