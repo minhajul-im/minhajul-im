@@ -55,7 +55,7 @@
 
 | Position           | Company                | Duration                     | Job Type  | Location          |
 | ------------------ | ---------------------- | ---------------------------- | --------- | ----------------- |
-| IT Support         | Classic Plus Point     | January 2022 - December 2024 | Full-Time | Dhaka, Bangladesh |
+| IT Support         | Classic Plus Point     | January 2022 - December 2023 | Full-Time | Dhaka, Bangladesh |
 | Frontend Developer | RixoTech               | February 2024 - January 2025 | Full-Time | Dhaka, Bangladesh |
 | Frontend Developer | iGen Solutions Limited | January 2024 - Present       | Full-Time | Dhaka, Bangladesh |
 
