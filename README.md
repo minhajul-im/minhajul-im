@@ -18,7 +18,7 @@
     In addition to my coding work, I enjoy sharing my experiences and insights on Medium, where I write about various tech topics to engage with the community and help others on their own learning journeys. -->
 <br/>
 
-<!-- ## 🛠️`Technologies and Tools:`
+## 🛠️`Technologies and Tools:`
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -42,7 +42,7 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<br/> -->
+<br/>
 
 ## ⚙️`Problem-solving:`
 
