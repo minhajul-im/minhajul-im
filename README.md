@@ -7,8 +7,7 @@
     Hey, I'm Minhajul Islam (Minhaj) 
   </h1>
   <div align="center" text-align= "justify">
-    As a passionate and driven Front-End Developer, I am always seeking opportunities to grow and refine my skills.
-
+    “life is not hard, life is hardest.”
   </div>
   <br />
 <div>
