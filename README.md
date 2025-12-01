@@ -91,11 +91,12 @@
     <tr>
       <td colspan="2" align="center">
         <div style="display: flex; flex-direction: column; align-items: center;">
-          <img
+          <!-- <img
           style="max-width: 100%; height: auto;"
           alt="Minhajul Islam :: Profile Stats"
           src="https://github-readme-stats.vercel.app/api?username=minhajul-im&theme=blue-green&show_icons=true&count_private=true&hide_border=true"
-        />
+        /> -->
+          <img src="https://leetcard.jacoblin.cool/minhajul-im" /> 
           <img
             style="max-width: 100%; height: auto; margin: 10px 0;"
             alt="Minhajul Islam :: Top Langs"
