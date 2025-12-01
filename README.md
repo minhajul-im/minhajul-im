@@ -49,6 +49,11 @@
 > 🔸[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/minhajul-im/)
 
 <br/>
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/minhajul-im" /> 
+  
+</div>
+
 
 <!-- ## 🎀`Employment History:`
 
@@ -95,8 +100,10 @@
           style="max-width: 100%; height: auto;"
           alt="Minhajul Islam :: Profile Stats"
           src="https://github-readme-stats.vercel.app/api?username=minhajul-im&theme=blue-green&show_icons=true&count_private=true&hide_border=true"
-        /> -->
-          <img src="https://leetcard.jacoblin.cool/minhajul-im" /> 
+        /> 
+          <img src="https://leetcard.jacoblin.cool/minhajul-im" />
+          -->
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=minhajul-im&theme=tokyonight&hide_border=true" /> 
           <img
             style="max-width: 100%; height: auto; margin: 10px 0;"
             alt="Minhajul Islam :: Top Langs"
